@@ -18,7 +18,7 @@ def promedio_crimenes_circular(df_crimenes_promedio):
 
     #pasamos el dataframe y devuelve el gráfico circular con el promedio de crímenes por barrio
 
-    import plotly.graph_objects as go
+    import plotly.express as px
 
     fig = px.pie(df_crimenes_promedio, values='crimenes_promedio', names='barrios', title="Promedio de crímenes por barrio")
     fig.show()
