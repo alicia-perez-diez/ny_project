@@ -51,8 +51,6 @@ Promedio de crímenes por gravedad de infracción por barrio.
 
 ![Promedio de precio y reviews por barrio](https://drive.google.com/uc?export=view&id=1b0bOkmGtSkf8Olh_BMCgwKFiRmqEEYE7)
 
-Precio y porcentaje de reviews por barrio.
-
 ![Relación entre el precio y el número de reviews por barrio](https://drive.google.com/uc?export=view&id=1xNtwFXSffSLgFQEgKpWDYRLw96Jp5N-O)
 
 Relación entre el precio y el número de reviews por barrio.
