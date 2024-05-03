@@ -1,3 +1,17 @@
+def connection_mysql(password):
+
+    #establecemos la conexión con la base de datos
+
+    import pymysql
+    from sqlalchemy import create_engine
+
+    df = "ny_project"
+    connection_string = 'mysql+pymysql://root:' + password + '@localhost/' + df
+    engine = create_engine(connection_string)
+    return engine
+
+
+
 def evolucion_crimenes_linear(df_principal):
     
     #pasamos el dataframe principal y devuelve el gráfico de líneas con la evolución de los crímenes por barrio entre los años 2016 y 2018
