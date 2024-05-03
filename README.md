@@ -8,7 +8,7 @@ Análisis preliminar de la relación entre las características del alojamiento 
 
 Puedes ver la presentación de nuestro proyecto en el siguiente <a href="https://docs.google.com/presentation/d/1WX-RsSYI5R3UwbxyNprzxAgdTX-QlEnG5elb00gE7fk/edit?usp=sharing">enlace.</a>
 
-Y el enlace al ERD <a href="https://www.figma.com/file/gOvrnYqe9p5d0xPGVYHeHR/ny_project_ERD?type=design&mode=design">aquí.</a>.
+Y el enlace al ERD <a href="https://www.figma.com/file/gOvrnYqe9p5d0xPGVYHeHR/ny_project_ERD?type=design&mode=design">aquí.</a>
 
 ## Tabla de contenidos
 
