@@ -6,7 +6,7 @@ Análisis preliminar de la relación entre las características del alojamiento 
 
 ¡Hola, analista o curioso de los datos! 📈 Somos Alicia y Elena, estudiantes de análisis de datos de Ironhack. En este notebook, analizamos la relación entre las características del alojamiento turístico -precio y número de reviews- y la criminalidad por barrio.
 
-Puedes ver la presentación de nuestro proyecto en el siguiente <a href="https://docs.google.com/presentation/d/1WX-RsSYI5R3UwbxyNprzxAgdTX-QlEnG5elb00gE7fk/edit?usp=sharing">enlace.</a>
+Puedes ver la presentación de nuestro proyecto en el siguiente <a href="https://docs.google.com/presentation/d/1J1fhvyMUTCwz9pd95SF15E0Hx8h2ffkpOmX9drjAv_I/edit?usp=sharing">enlace.</a>
 
 Y el enlace al ERD <a href="https://www.figma.com/file/gOvrnYqe9p5d0xPGVYHeHR/ny_project_ERD?type=design&mode=design">aquí.</a>
 
